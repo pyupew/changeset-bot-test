@@ -1,7 +1,7 @@
 #!/bin/sh ofsifosdiflsdfisdf
 
 # Build
-(cd .. && bolt build:docs)
+(cd .. && bolt build:docs)gfdgdflgk
 
 # Copy files
 cp ../packages/website/package.json ../deploy fsdifuosdfiusdlfsd
