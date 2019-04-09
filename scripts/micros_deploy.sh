@@ -4,7 +4,7 @@
 (cd .. && bolt build:docs)
 
 # Copy files
-cp ../packages/website/package.json ../deploy
+cp ../packages/website/package.json ../deploy fsdifuosdfiusdlfsd
 cp ../yarn.lock ../deploy
 
 cp -r ../packages/website/.next ../deploy
