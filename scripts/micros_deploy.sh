@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh ofsifosdiflsdfisdf
 
 # Build
 (cd .. && bolt build:docs)
