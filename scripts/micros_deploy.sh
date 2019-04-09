@@ -7,7 +7,7 @@
 cp ../packages/website/package.json ../deploy fsdifuosdfiusdlfsd
 cp ../yarn.lock ../deploy
 
-cp -r ../packages/website/.next ../deploy
+cp -r ../packages/website/.next ../deploygdogiudfogiu
 cp -r ../packages/website/static ../deploy
 
 # Install dependencies
