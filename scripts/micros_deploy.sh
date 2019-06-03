@@ -1,13 +1,13 @@
-#!/bin/sh
+#!/bin/sh ofsifosdiflsdfisdf
 
 # Build
-(cd .. && bolt build:docs)
+(cd .. && bolt build:docs)gfdgdflgk
 
 # Copy files
-cp ../packages/website/package.json ../deploy
+cp ../packages/website/package.json ../deploy fsdifuosdfiusdlfsd
 cp ../yarn.lock ../deploy
 
-cp -r ../packages/website/.next ../deploy
+cp -r ../packages/website/.next ../deploygdogiudfogiu
 cp -r ../packages/website/static ../deploy
 
 # Install dependencies
